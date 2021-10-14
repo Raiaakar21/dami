@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header
+{
+   height: 100vh;
+}
+.navbar-style
+{
+	box-shadow: 0 5px 10px #efefef;
+	text-transform: uppercase;
+}
+.logo
+{
+	height: 50px;
+	padding: 3px 20px;
+}
+.icon-bar
+{
+	background: darkorange;
+}
+li a
+{
+	color: #333;
+}
+.big-text{
+	font-size: 82px;
+	margin: 20px 0;
+	color: darkorange;
+}
